@@ -1,0 +1,26 @@
+Name:
+Date:
+
+1 - What is the structure of a for loop?
+
+
+2 - When should I use a for loop?
+
+
+3 - Why are loops useful to us?
+
+
+4 - What are the different variations of the range() function?
+
+
+5 - What are the two methods of creating a for loop?
+
+
+6 - What is the iterator variable? Does it have to be named i?
+
+
+7 - Can you loop through a string?
+
+
+8 - What are examples of real life loops that you encounter?
+
