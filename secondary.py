@@ -21,8 +21,11 @@ print(
 #     $$
 #      $
 #
-# Write Code Below #
-
+# Write Code Below 
+sym=input("Enter a symbol: ")
+num=int(input("Enter a number: "))
+for i in range(num + 1):
+    print(" " * i + sym * (num - i))
 
 # 2 - for Loop | Patterns
 #   a. Prompt input from the user in the form of a symbol. Save to a variable named s.
@@ -44,6 +47,12 @@ print(
 #
 #
 # Write Code Below #
+sym=input("Enter a symbol: ")
+num=int(input("Enter a number: "))
+for i in range(num):
+    print(sym * (num - i))
+for i in range(2, num + 1):
+    print(sym*i)
 
 
 # 3 - for Loop | Patterns

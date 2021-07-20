@@ -1,5 +1,5 @@
-# author:
-# date:
+# author:Lynijahhhhhhhh
+# date:07-16-2021
 
 # -------------------- Section 1 -------------------- #
 
@@ -25,6 +25,9 @@ print(
 #
 # Write Code Below #
 
+print("Name Section")
+for i in range(5):
+    print("Lynijah")
 
 # 2 - for Loop | Printing i
 #   a. Create a for loop that runs 5 times.
@@ -39,6 +42,10 @@ print(
 #   4
 #
 # Write Code Below #
+print(" ")
+print("Printing I")
+for i in range(0,6):
+    print(i)
 
 
 # 3 - for Loop | Running According to the User
@@ -59,13 +66,17 @@ print(
 #   $$$$$$
 #
 # Write Code Below #
-
-
+print(" ")
+print("For Loops")
+inn=int(input("Enter an integer: "))
+sym=input("Enter a symbol: ")
+for i in range(inn):
+    print(sym+sym*i)
+    
 # ---------- Part 2 | Direct Access ---------- #
-print(
     '\n\n>> Section 1\n'
     '>> Part 2\n'
-)
+
 
 # For the following for Loops, use direct access.
 #
@@ -82,7 +93,12 @@ print(
 #   a
 #
 # Write Code Below #
-
+print(" ")
+print("Name")
+name= "lynijah"
+length=len(name)
+for i in range(length):
+    print(name[i])
 
 # 2 - for Loop | Printing the User's Name
 #   a. Prompt input from the user in the form of their name. Save to a variable named name.
@@ -105,7 +121,12 @@ print(
 #   e
 #
 # Write Code Below #
-
+print(" ")
+print("Name 2")
+name= input("Enter a name: ")
+length=len(name)
+for i in range(length):
+    print(name[i])
 
 # ---------- Part 3 | range() variations ---------- #
 print(
@@ -142,7 +163,10 @@ print(
 #   24
 #
 # Write Code Below #
-
+print(" ")
+print("number iterator")
+for i in range(10,25):
+    print(i)
 
 # 2 - for Loop | Custom Step
 #   a. Create a for loop that runs from 5 to -5.
@@ -162,4 +186,7 @@ print(
 #   -4
 #
 # Write Code Below #
-
+print(" ")
+print("number iterator 2")
+for i in range(5,-5,-1):
+    print(i)

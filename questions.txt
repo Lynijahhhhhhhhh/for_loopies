@@ -2,25 +2,30 @@ Name:
 Date:
 
 1 - What is the structure of a for loop?
-
+for blank in range(start,stop,step)
 
 2 - When should I use a for loop?
-
+when dealing with numbers
 
 3 - Why are loops useful to us?
-
+They make coding simpler and require less typing.
 
 4 - What are the different variations of the range() function?
+im not sure what you mean but ima say start,stop and step.
 
 
 5 - What are the two methods of creating a for loop?
 
+*
+
+
 
 6 - What is the iterator variable? Does it have to be named i?
-
+Its basically a place holder and no
 
 7 - Can you loop through a string?
-
+yesss
 
 8 - What are examples of real life loops that you encounter?
 
+waking up 
